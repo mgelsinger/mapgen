@@ -15,8 +15,8 @@ Generate printable, hex-tiled boards as PDF files with a single command—ideal 
 
 ```bash
 # 1. Clone
-git clone https://github.com/your-username/hex-map-generator.git
-cd hex-map-generator
+[git clone https://github.com/your-username/hex-map-generator.git](https://github.com/mgelsinger/mapgen.git)
+cd mapgen
 
 # 2. Install deps (Python 3.10+)
 python -m pip install -r requirements.txt
