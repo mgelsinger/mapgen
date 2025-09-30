@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-hex_map_generator.py — centred PDF hex-board generator
+hex_map_generator.py - centered PDF hex-board generator
 
 • US-Letter (8.5×11″) output with timestamped filename
 • Dual-layer Perlin noise → elevation + moisture → five biomes
